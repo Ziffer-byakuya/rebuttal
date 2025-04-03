@@ -1,3 +1,5 @@
+Table-R3. Normalized evaluation results on SafetyGymnasium. The normalized cost threshold is set to 1. Values in (.) represent the standard deviation. Each value represents the average performance over 10 evaluation episodes with 5 seeds and 3 thresholds.
+
 | Env                 |      | C2IQL        | CDT              | FISOR            | BCQ-L            |
 | ------------------- | ---- | ------------ | ---------------- | ---------------- | ---------------- |
 | PointCircle1        | R    | 0.666 (0.09) | 0.562 (0.04)     | 0.651 (0.04)     | 0.661 (0.11)     |
